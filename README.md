@@ -1,5 +1,5 @@
 <div align="center">
-## Hi there I'm Anupam Ds 👋
+# **Hi,there  I'm Anupam Ds** 👋
 
 ![Typing Animation](https://github.com/ethicalanp/ethicalanp/blob/main/assets/typing-animation.gif) 
 
