@@ -13,13 +13,9 @@ Exploring the intersections of **Data, Security, and AI**
 Reach out via [LinkedIn](www.linkedin.com/in/anupam-ds-595ab1327)  
 
 ---
-
-### **GitHub Activity**  
+ 
 ![Grid Snake](https://raw.githubusercontent.com/ethicalanp/ethicalanp/output/github-contribution-grid-snake.svg)  
 
 ---
-
-### **Chat with Me**  
-![Chat](https://raw.githubusercontent.com/ethicalanp/ethicalanp/main/chat.svg)  
 
 </div>
