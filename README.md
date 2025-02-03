@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anupam DS</h1>
-<h3 align="center">A Tech Enthusiast Specializing in Machine Learning and AI</h3>
+
 
 <!-- Typing Animation for Introduction -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Hi+there%2C+I'm+Anupam+DS%F0%9F%91%8B)](https://git.io/typing-svg)
