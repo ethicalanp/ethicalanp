@@ -3,7 +3,7 @@
 <!-- Typing Animation for Introduction -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Hi+there%2C+I'm+Anupam+DS%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=400&lines=A+Tech+Enthusiast%2C+Specializing+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=600&lines=A+Tech+Enthusiast%2C+Specializing+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
 
 ---
 
