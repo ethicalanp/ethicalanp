@@ -1,14 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Hi+there%2C+I'm+Anupam+Ds+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CFF7F5&multiline=true&width=500&lines=Hi+there%2C+I'm+Anupam+Ds+%F0%9F%91%8B;A+Tech+Enthusiast;Specializing+in+Machine+Learning+and+AI;Exploring+the+intersections+of+Data%2C+Security%2C+and+AI;Let's+Connect;Reach+out+via+%5BLinkedIn%5D(https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanupam-ds-595ab1327))](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=A+Tech+Enthusiast)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Specializing+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Exploring+the+intersections+of+Data%2C+Security%2C+and+AI)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Let's+Connect)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Reach+out+via+%5BLinkedIn%5D(https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanupam-ds-595ab1327))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CFF7F5&multiline=true&width=500&lines=Specializing+in+Machine+Learning+and+AI;Exploring+the+intersections+of+Data%2C+Security%2C+and+AI)](https://git.io/typing-svg)
 
 ---
 
@@ -16,14 +8,6 @@
 Reach out via [LinkedIn](https://www.linkedin.com/in/anupam-ds-595ab1327)
 
 ---
-
-<!-- Adding Chat Bubble Border -->
-<div style="border: 2px solid #CFF7F5; border-radius: 10px; padding: 10px; font-family: 'Fira Code', monospace;">
-    ![Grid Snake](https://raw.githubusercontent.com/ethicalanp/Real-Estate-Price-Prediction---Bangalore-Housing-Prices/output/github-contribution-grid-snake.svg)
-</div>
-
----
-
 
 
 
