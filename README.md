@@ -38,6 +38,9 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/ethicalanp/ethicalanp/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 💡 Support:
 <p align="center">
@@ -45,22 +48,6 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
 </a>
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethicalanp&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalanp&" alt="GitHub Streak"/>
-</p>
-
-
-  <!-- GitHub Contribution Snake -->
-  <h3 align="center">My GitHub Activity</h3>
-  <p align="center">
-    ![Grid Snake](https://raw.githubusercontent.com/ethicalanp/ethicalanp/output/github-contribution-grid-snake.svg)
-  </p>
-
 </div>
 
 
