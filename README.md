@@ -3,9 +3,9 @@
 <!-- Typing Animation for Introduction -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=500&lines=Hi+there%2C+I'm+Anupam+DS%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=800&lines=A+Tech+Enthusiast%2C+Specializing+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=CFF7F5&multiline=true&width=800&lines=A+Tech+Enthusiast%2C+Specializing+in+Machine+Learning+and+AI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=CFF7F5&multiline=true&width=800&lines=Exploring%2C+Data+Security+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=CFF7F5&multiline=true&width=800&lines=Exploring%2C+Data,+Security+and+AI)](https://git.io/typing-svg)
 
 ---
 
